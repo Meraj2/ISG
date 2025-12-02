@@ -6,3 +6,5 @@ EmployeeDAOImpl class
 EmployeeServiceImpl class
 Add JPA repository
 Add Dependencies of Oracle and Data JPA
+Add Mysql database
+Add SQl workbench
